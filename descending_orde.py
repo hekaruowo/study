@@ -1,2 +1,2 @@
 def descending_order(num):
-    for num
+    for i in num:
